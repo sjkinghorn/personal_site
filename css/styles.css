@@ -16,7 +16,7 @@ h1 {
 
 h2 {
   color: #0E5E6F;
-  font-family: 'Asul', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 2.5rem;
   font-weight: normal;
   padding-bottom: 10px;
@@ -24,7 +24,7 @@ h2 {
 
 h3 {
   color: #3A8891;
-  font-family: 'Asul', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 a {
@@ -73,8 +73,7 @@ nav li {
 nav li a {
   color: #0E5E6F;
   text-transform: uppercase;
-  font-family: 'Asul', sans-serif;
-
+  font-family: 'Montserrat', sans-serif;
 }
 
 nav a:hover {
