@@ -1,0 +1,194 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+}
+
+p {
+  color: #606060;
+}
+
+/* Headings */
+
+.big-heading {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.section-heading {
+  font-weight: 700;
+  font-size: 2.5rem;
+  line-height: 1.5;
+  margin-bottom: 2rem;
+}
+
+.sub-section-heading {
+  font-weight: 700;
+  font-size: 1.75rem;
+  line-height: 1.5;
+  margin-bottom: 2rem;
+}
+
+/* Containers */
+
+.spacing.container-fluid {
+  padding: 7% 15%;
+}
+
+/* Sections */
+
+.colored-section {
+  background-color: #0F52BA;
+  color: #fff
+}
+
+.white-section {
+  background-color: #fff;
+}
+
+.grey-section {
+  background-color: #F0F0F0;
+}
+
+/* Navigation Bar */
+
+.navbar {
+  padding: .8rem 15%;
+}
+
+.navbar-brand {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-weight: 400;
+}
+
+/* Download Buttons */
+
+.resume-button {
+  margin: 5% 3% 5% 0;
+}
+
+/* Title Section */
+
+#title .container-fluid {
+  text-align: left;
+}
+
+/* Title Image */
+
+.title-image {
+  width: 50%;
+  border-radius: 100%;
+  border: .5px solid #c0c0c0;
+}
+
+/* About Section */
+
+#about .container-fluid {
+  padding: 7% 20%;
+}
+
+.about-text {
+  line-height: 2;
+  font-size: 1.2rem;
+}
+
+/* Education and Skills Section */
+
+#ed-skills .container-fluid {
+  padding: 7% 8%;
+  text-align: left;
+}
+
+.educ-subheading {
+  font-weight: 700;
+}
+
+.skill-badge {
+  font-weight: 500;
+  margin: .5rem;
+}
+
+/* Projects Section */
+
+#projects .container-fluid {
+  padding: 7% 8%;
+}
+
+.project-row {
+  text-align: left;
+  margin: 2rem 0;
+}
+
+.project-img {
+  max-width: 90%;
+  height: auto;
+}
+
+/* Contact Section */
+
+.contact-text {
+  color: #fff;
+}
+
+.contact-btn {
+  width: 10rem;
+  margin: 1rem;
+}
+
+/* Footer Section */
+
+#footer .container-fluid {
+  padding: 3% 15%;
+}
+
+.social-icons {
+  margin: 30px 10px;
+}
+
+.acknowledgements {
+  font-size: .5rem;
+}
+
+/* More Section */
+
+#more .container-fluid {
+  line-height: 2;
+  padding: 7% 15%;
+  text-align: left;
+  overflow: hidden;
+}
+
+#iceland {
+  max-width: 25%;
+  height: auto;
+  margin-right: 30px;
+  margin-bottom: 30px;
+  border-radius: 30px;
+}
+
+#mini {
+  max-width: 25%;
+  height: auto;
+  margin-left: 30px;
+  border-radius: 30px;
+}
+
+.about_row ul {
+  line-height: 3;
+}
